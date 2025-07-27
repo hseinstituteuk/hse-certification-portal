@@ -43,7 +43,7 @@ You can validate certificates in fields such as:
 ## 🔐 Verification Process
 
 1. Visit the official verification site:  
-   [[`https://<your-github](https://hseinstituteuk.github.io/hse-certification-portal/)
+   https://hseinstituteuk.github.io/hse-certification-portal/
 2. Enter the Certificate Number (e.g., `HSE2`)
 3. View verified certificate details with:
    - ✅ Certificate Image  
