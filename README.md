@@ -43,8 +43,8 @@ You can validate certificates in fields such as:
 ## 🔐 Verification Process
 
 1. Visit the official verification site:  
-   [`https://<your-github-username>.github.io/<repo-name>`](https://example.com)
-2. Enter the Certificate Number (e.g., `HSE2025-001`)
+   [`https://<your-github
+2. Enter the Certificate Number (e.g., `HSE2`)
 3. View verified certificate details with:
    - ✅ Certificate Image  
    - ✅ Verified Stamp  
